@@ -4,11 +4,16 @@ Lap 1
 ------
 1-New user name admin-yat with Admin access enable 2FA & 
 Console access & cli access token (test connection):
+
 2-New user name developer-yat access on viewer aws eks 
 only cli access only:
+
 3-Create Alarm to notify you (send email):
+
 a.Current bill (cost) 0.5 dollar or more.
+
 b.Forcast bill (monthly) 5 dollar or more.
+
 -------------------------------------------------------
 
 Lap 2 
