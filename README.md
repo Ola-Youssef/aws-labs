@@ -60,3 +60,21 @@ it in directory.
 
 ---------------------------------------------------------
 
+Lap 4
+------
+1-Create VPC with public and private subnets.
+
+2-Create igw then attach it with public subnet.
+
+3-Create NAT gateway then attach it with private 
+subnet via route table.
+
+4-Create ec2 instance inside public subnet.
+
+5-Create s3 bucket.
+
+6-Create IAM role to access s3 bucket and give this 
+role to ec2.
+
+7-Now using terminal upload file after you access the 
+ec2 instance.
